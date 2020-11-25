@@ -29,4 +29,5 @@ Plotting with matplotlib
 	Vodafone trumps Jio with a huge margin. Recently, the vodafone-idea merger was named the fasted mobile service provider [2].
 
 [1] https://indianexpress.com/article/explained/muslims-daliots-undertrials-in-prison-ncrb-3734362/
+
 [2] https://gadgets.ndtv.com/telecom/news/vi-airtel-jio-4g-download-speed-availability-india-q3-2020-ookla-2317520
