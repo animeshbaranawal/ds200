@@ -43,6 +43,7 @@ fig, ax = plt.subplots(figsize=(16,9))
 
 b = [0]*len(labels)
 for r in r_data:
+	# print(r_data[r])
 	ax.bar(labels, r_data[r], width, bottom=b, label=r)
 
 	for i in range(len(r_data[r])):

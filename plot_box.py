@@ -66,7 +66,7 @@ axes[1].set_ylabel('Upload Speed (in Kbps)')
 # add x-tick labels
 plt.setp(axes, xticks=[y+1 for y in range(len(all_data_download))],
          xticklabels=labels)
-fig.suptitle('Mobile speeds in Karnataka (Aug 2020)')
+fig.suptitle('4G Mobile speeds in Karnataka (Aug 2020)')
 fig.tight_layout()
 # plt.show()
 plt.savefig("box_plot.png")
