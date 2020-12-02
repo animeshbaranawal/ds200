@@ -10,6 +10,8 @@ Plotting with matplotlib
 	year 2011. The scatter plot shows that there is no correlation and the two social indicators interact in a more complicated way. Moreover,
 	the state of Kerala is an outlier with a high literacy rate as well as a high sex ratio. Other studies also have been 
 
+	<img src="plots/scatter_plot.png" width="600"/>
+
 2. Bar Plot
 	* Dataset:
 		- Religion of inmates ( https://data.gov.in/resources/religion-inmates-end-year-during-2001-2012 )
@@ -20,6 +22,8 @@ Plotting with matplotlib
 	from ~1.5% in 2001 to ~3.5% in 2011. An 8% decrease is observed in the Hindu religion profile across years. Similar observations have been made
 	on a national level [1].
 
+	<img src="plots/bar_plot.png" width="600"/>
+
 3. Box Plot
 	* Dataset:
 		- Crowd-sourced mobile data speeds during August 2020 ( https://data.gov.in/node/6786602 ) 
@@ -27,6 +31,8 @@ Plotting with matplotlib
 	the consumer in a better cost-benefit understanding. The Y axis has the speeds in Kbps (kilo bits per second). We observe that for download, Jio
 	is the best service provider with Vodafone a close second. However, Jio also shows a lot of variation in the reported download speeds. For upload,
 	Vodafone trumps Jio with a huge margin. Recently, the vodafone-idea merger was named the fasted mobile service provider [2].
+
+	<img src="plots/box_plot.png" width="600"/>
 
 [1] https://indianexpress.com/article/explained/muslims-daliots-undertrials-in-prison-ncrb-3734362/
 
